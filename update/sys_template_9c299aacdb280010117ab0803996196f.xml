@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>true</global>
+        <group/>
+        <link_element/>
+        <name>Fix Me</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>Fix Me</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>David.Holmes</sys_created_by>
+        <sys_created_on>2019-10-14 07:58:09</sys_created_on>
+        <sys_id>9c299aacdb280010117ab0803996196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fix Me</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_template_9c299aacdb280010117ab0803996196f</sys_update_name>
+        <sys_updated_by>David.Holmes</sys_updated_by>
+        <sys_updated_on>2019-10-14 07:58:09</sys_updated_on>
+        <table>sys_aw_global_search_config</table>
+        <template>sys_scope=2b3a837a0bb732007a0e41d6f6673a7f^sys_name=Fix^sys_package=2b3a837a0bb732007a0e41d6f6673a7f^EQ</template>
+        <user display_value="David Holmes">97647e14db200010117ab08039961942</user>
+        <view/>
+    </sys_template>
+</record_update>
